@@ -1,0 +1,8 @@
+{
+	"threads": 4,
+	"socket_url": "127.0.0.1:7879",
+	"path_to_sqlite": "ras_auth",
+	"password_for_sign_pass": "some string password",
+	"default_user_role": 32,
+	"life_time_token": 3000
+}
